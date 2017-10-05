@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>http://dassphoto.github.io/artofliving//#Talks</loc>
+  </url>
+  
+  <url>
+    <loc>http://dassphoto.github.io/artofliving//#Poetry</loc>
+  </url>
+  
+  <url>
+    <loc>http://dassphoto.github.io/artofliving//# Photography</loc>
+  </url>
+  
+  <url>
+    <loc>http://dassphoto.github.io/artofliving//#contact</loc>
+  </url>
+  
+  <url>
+    <loc>http://dassphoto.github.io/artofliving//#my-first-post</loc>
+    <lastmod>2017-10-04T15:39:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dassphoto.github.io/artofliving//#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dassphoto.github.io/artofliving//#</loc>
+    <lastmod>2017-10-04T15:39:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dassphoto.github.io/artofliving//#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dassphoto.github.io/artofliving//#</loc>
+    <lastmod>2017-10-04T15:39:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

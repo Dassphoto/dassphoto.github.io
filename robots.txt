@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dassphoto.github.io/artofliving//sitemap.xml
